@@ -1,6 +1,6 @@
 # Semiconducted
 
- Semiconducted is a digital agency. Design, Digital Products, Industrial Design, Packaging & Product Design, Retail & Spacial Projects
+ Semiconducted is a digital agency. Design, Digital Products, Industrial Design, Packaging & Product Design, Retail & Spacial Projects.
 
 ## Table of Contents
 
