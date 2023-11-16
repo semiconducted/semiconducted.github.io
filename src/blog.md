@@ -1,7 +1,7 @@
 ---
 layout: "layouts/blog.njk"
-title: "Roxo Blog"
-des: "By fusing strategy & design we help our partners build their brands, drive business, & stand out from the noise in saturated markets! Follow our blog for the latest case studies and projects."
+title: "Projects"
+des: "A few select case studies from the many projects we've helped launch."
 pagination:
   data: collections.blogpost
   size: 3
