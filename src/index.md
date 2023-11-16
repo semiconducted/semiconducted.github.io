@@ -1,21 +1,21 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "Digital Art, Design, & Prototyping Services"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "Experienced Designers &"
+    secondPara: "Expert Craftsmanship"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "Projects"
     link: "#project"
   connectBtn: 
     text: "Connect with us"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "PROJECTS"
+  title: "Crafting experiences and beautiful products."
   seeAllbtn:
     link: "portfolio"
-    text: "MORE WORKS"
+    text: "PROJECTS"
 ---
