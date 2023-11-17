@@ -10,13 +10,13 @@ Client: Coca-Cola Agency: R/GA Role: Client liaison and Lead Experience Designer
 Coca-Cola was looking to reduce costs (manufacturing, storing, and distributing merchandise) and make their My Coke Rewards loyalty platform more relevant to the digital generation. 
 We reinvented the concept to focus on ‘gamifying’ with real-world sponsorships, digital content partnerships, mobile-centric participation, while still working with the Adobe CQ core frameworks already in place. 
 
-== Strategy ==</br>
+## Strategy ##
 ![strategy slide image](../../assets/images/projects/DamonHammSampleDeck-4k.019.jpeg)
-== Deliverables ==</br>
+## Deliverables ##
 ![deliverables slide image 1](../../assets/images/projects/DamonHammSampleDeck-4k.021.jpeg)
 ![deliverables slide image 2](../../assets/images/projects/DamonHammSampleDeck-4k.022.jpeg)
 ![deliverables slide image 3](../../assets/images/projects/DamonHammSampleDeck-4k.023.jpeg)
 ![deliverables slide image 4](../../assets/images/projects/DamonHammSampleDeck-4k.024.jpeg)
-== Impact ==</br>
+## Impact ##
 ![impact slide image](../../assets/images/projects/DamonHammSampleDeck-4k.025.jpeg)
-== Thank You ==</br>
+## Thank You ##
