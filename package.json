@@ -1,0 +1,25 @@
+{
+   "name": "semiconducted.github.io",
+   "version": "1.0.0",
+   "description": "",
+   "main": ".eleventy.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "npx eleventy --serve",
+      "build": "eleventy"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/semiconducted/semiconducted.github.io"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/semiconducted/semiconducted.github.io/issues"
+   },
+   "homepage": "https://github.com/semiconducted/semiconducted.github.io#readme",
+   "dependencies": {
+      "@11ty/eleventy": "^2.0.1"
+   }
+}
