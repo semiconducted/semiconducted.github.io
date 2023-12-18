@@ -502,7 +502,6 @@ textarea.form-control {
 .site-project-header-content img {
   text-align: center;
 max-width: 80%;
-max-height: 200px;
 display:box;
 overflow: hidden;
 }
@@ -510,7 +509,7 @@ overflow: hidden;
 @media (max-width: 767px) {
   .site-project-header-content img {
     max-width: 100%;
-    max-height: 400px;  }
+    }
 }
 
 
@@ -574,12 +573,12 @@ overflow: hidden;
   margin-bottom: 40px;
 }
 .site-project-single-image {
-  display: flex;
+  display: inline-block;
   flex-wrap: wrap;
   margin-bottom: 30px;
 }
 .site-project-single-image img {
-  width: 48%;
+  width: 100%;
 }
 .site-project-single-image img:nth-child(2n) {
   margin-left: auto;
@@ -591,6 +590,9 @@ overflow: hidden;
 }
 .site-project-single-description {
   margin-bottom: 50px;
+}
+.site-project-single-description img{
+  max-width: 100%;
 }
 .site-project-single-description p {
   margin-bottom: 30px;
