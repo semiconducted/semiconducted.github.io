@@ -13,11 +13,11 @@ Coca-Cola was looking to reduce costs (manufacturing, storing, and distributing 
 
 We reinvented the concept to focus on ‘gamifying’ with real-world sponsorships, digital content partnerships, mobile-centric participation, while still working with the Adobe CQ core frameworks already in place. 
 
-## Strategy ##
+### Strategy ###
 ![deliverables slide image 2](<../../assets/images/projects/Coca-Cola Rewards-02.jpg>)
-## Deliverables ##
-![deliverables slide image 2](<../../assets/images/projects/Coca-Cola Rewards-03.jpg>)
-![deliverables slide image 3](<../../assets/images/projects/Coca-Cola Rewards-04.jpg>)
-![deliverables slide image 4](<../../assets/images/projects/Coca-Cola Rewards-05.jpg>)
-![deliverables slide image 4](<../../assets/images/projects/Coca-Cola Rewards-06.jpg>)
-## Impact ##
+### Deliverables ###
+![deliverables slide image 3](<../../assets/images/projects/Coca-Cola Rewards-03.jpg>)
+![deliverables slide image 4](<../../assets/images/projects/Coca-Cola Rewards-04.jpg>)
+![deliverables slide image 5](<../../assets/images/projects/Coca-Cola Rewards-05.jpg>)
+![deliverables slide image 6](<../../assets/images/projects/Coca-Cola Rewards-06.jpg>)
+### Impact ###
