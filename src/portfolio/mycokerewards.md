@@ -2,6 +2,7 @@
 subTitle: "UX DESIGN" 
 title: "Coca-Cola My Coke Rewards"
 img: "../../assets/images/projects/Coca-Cola Rewards-07th-600px.jpg"
+imgHeader: "../../assets/images/projects/Coca-Cola Rewards-07.jpg"
 linkText: "view project"
 featureImg1: "../../assets/images/projects/Coca-Cola Rewards-07.jpg"
 featureImg2: "../../assets/images/projects/Coca-Cola Rewards-02.jpg"
@@ -11,13 +12,13 @@ Coca-Cola was looking to reduce costs (manufacturing, storing, and distributing 
 We reinvented the concept to focus on ‘gamifying’ with real-world sponsorships, digital content partnerships, mobile-centric participation, while still working with the Adobe CQ core frameworks already in place. 
 
 ## Strategy ##
-![strategy slide image](../../assets/images/projects/Coca-Cola Rewards-00.png)
+![strategy slide image](<../../assets/images/projects/Coca-Cola Rewards-00.png>)
 ## Deliverables ##
-![deliverables slide image 1](../../assets/images/projects/Coca-Cola Rewards-02.jpg)
-![deliverables slide image 2](../../assets/images/projects/Coca-Cola Rewards-03.jpg)
-![deliverables slide image 3](../../assets/images/projects/Coca-Cola Rewards-04.jpg)
-![deliverables slide image 4](../../assets/images/projects/Coca-Cola Rewards-05.jpg)
-![deliverables slide image 4](../../assets/images/projects/Coca-Cola Rewards-06.jpg)
+![deliverables slide image 1](<../../assets/images/projects/Coca-Cola Rewards-02.jpg>)
+![deliverables slide image 2](<../../assets/images/projects/Coca-Cola Rewards-03.jpg>)
+![deliverables slide image 3](<../../assets/images/projects/Coca-Cola Rewards-04.jpg>)
+![deliverables slide image 4](<../../assets/images/projects/Coca-Cola Rewards-05.jpg>)
+![deliverables slide image 4](<../../assets/images/projects/Coca-Cola Rewards-06.jpg>)
 ## Impact ##
-![impact slide image](../../assets/images/projects/Coca-Cola Rewards-07.jpg)
+![impact slide image](<../../assets/images/projects/Coca-Cola Rewards-07.jpg>)
 ## Thank You ##
