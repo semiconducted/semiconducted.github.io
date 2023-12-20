@@ -1,11 +1,11 @@
 ---
 subTitle: "UX DESIGN" 
 title: "Coca-Cola My Coke Rewards"
-img: "../../assets/images/projects/Coca-Cola Rewards-07th-600px.jpg"
-imgHeader: "../../assets/images/projects/Coca-Cola Rewards-07th-600px.jpg"
+img: "/assets/images/projects/Coca-Cola Rewards-07th-600px.jpg"
+imgHeader: "/assets/images/projects/Coca-Cola Rewards-07th-600px.jpg"
 linkText: "view project"
-featureImg1: "../../assets/images/projects/Coca-Cola Rewards-07.jpg"
-featureImg2: "../../assets/images/projects/Coca-Cola Rewards-07th-600px.jpg"
+featureImg1: "/assets/images/projects/Coca-Cola Rewards-07.jpg"
+featureImg2: "/assets/images/projects/Coca-Cola Rewards-07th-600px.jpg"
 ---
 Client: Coca-Cola Agency: R/GA Role: Client liaison and Lead Experience Designer (XD) for technical design and creative direction for this large scale ecommerce system. Oversaw several other XDs designing game mechanics, process flows, site wireframes, and 3rd party partner User Guide documentation.
 
